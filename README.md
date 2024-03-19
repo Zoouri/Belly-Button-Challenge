@@ -36,6 +36,8 @@ Creating an interactive dropdown menu which populates and appends information ba
 
 ![Screen Shot of interactive](ss/interactive.png)
 
+* Fixed styling, placement of the tables and its sizes in `index.html`.
+
 
 #### Technologies used
 * *Visual Studio Code*
